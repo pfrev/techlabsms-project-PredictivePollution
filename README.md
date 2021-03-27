@@ -1,4 +1,4 @@
-project-st-19-01-PredictivePollution
+Classification of car engine by sound
 ==============================
 Project to classify car engines (petrol/diesel) by their sounds. We used the ESC-50 dataset (https://github.com/karoldvl/ESC-50), extracting the engine audio files,
 converting them to spectograms and splitting them into different lengths, ending with building and comparing different learners by their success rate.
@@ -25,5 +25,4 @@ Project Organization
 |   └── ESC-50-master                    -> used dataset
 ```
 
-This project was created as part of 
-Contributors include:
+This project was created as part of a group project in the TechLabs DigitalShaper Program in 2019. TechLabs has made it their mission to educate students in the art of coding for free. They won the Google.org Impact Challenge Germany in 2018, you can find out more at https://www.techlabs.org/.
